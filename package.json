@@ -1,0 +1,11 @@
+{
+  "name": "product-ui-container",
+  "version": "1.0.0",
+  "description": "Scaffold for Single Page Application with Serverless, hosted on S3 and served using Cloudfront",
+  "repository": "https://github.com/SanjeevKSivaraman/product-ui-container",
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "serverless-single-page-app-plugin": "file:./serverless-single-page-app-plugin"
+  }
+}
